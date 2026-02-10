@@ -1,4 +1,3 @@
-# AWS-services
 # AWS Cloud Experience & Services Overview
 
 This repository documents hands-on experience and expertise across a wide range of **Amazon Web Services (AWS)** offerings, covering cloud infrastructure, application modernization, DevOps, security, data platforms, and AI/ML services. The focus is on designing, deploying, migrating, securing, and operating scalable, resilient, and cost‑optimized AWS environments.
