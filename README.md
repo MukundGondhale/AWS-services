@@ -166,5 +166,3 @@ This repository documents hands-on experience and expertise across a wide range 
 This repository reflects end-to-end AWS experience across **cloud architecture, migration, DevOps, security, data engineering, and AI/ML**, supporting enterprise-scale workloads with best practices in reliability, scalability, security, and cost efficiency.
 
 ---
-
-*Feel free to fork, reuse, or adapt this README for professional portfolios, resumes, or project documentation.*
